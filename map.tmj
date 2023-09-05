@@ -718,7 +718,7 @@
         {
          "columns":2,
          "firstgid":2956,
-         "image":"..\/..\/..\/PROJEKTE\/WorkAdventure\/tiles\/devcir_logo.png",
+         "image":"tilesets\/devcir_logo.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
