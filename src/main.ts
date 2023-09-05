@@ -27,8 +27,17 @@ WA.onInit().then(() => {
 
     // Boss
     var halleluja = WA.sound.loadSound("halleluja.mp3");
+    var config = {
+        volume : 0.8,
+        loop : false,
+        rate : 1,
+        detune : 1,
+        delay : 0,
+        seek : 0,
+        mute : false
+    }
     WA.room.area.onEnter('boss').subscribe(() => {
-        halleluja.play();
+        halleluja.play(config);
     })
     WA.room.area.onLeave('boss').subscribe(() => {
         halleluja.stop();
