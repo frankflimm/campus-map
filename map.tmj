@@ -333,7 +333,7 @@
                  "type":"",
                  "visible":true,
                  "width":93.7162209047986,
-                 "x":340.706866605851,
+                 "x":328.302637891516,
                  "y":23.0481688939203
                 }, 
                 {
@@ -472,6 +472,17 @@
                  "width":129.680572922587,
                  "x":736.360122769126,
                  "y":95.8508582471297
+                }, 
+                {
+                 "height":38.3403432988519,
+                 "id":24,
+                 "name":"boss",
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":59.765829259975,
+                 "x":448.807548027737,
+                 "y":89.0849153120382
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -554,7 +565,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":24,
+ "nextobjectid":25,
  "orientation":"orthogonal",
  "properties":[
         {

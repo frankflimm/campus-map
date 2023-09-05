@@ -25,6 +25,15 @@ WA.onInit().then(() => {
     })
     WA.room.area.onLeave('wiki').subscribe()
 
+    // Boss
+    var halleluja = WA.sound.loadSound("halleluja.mp3");
+    WA.room.area.onEnter('boss').subscribe(() => {
+        halleluja.play();
+    })
+    WA.room.area.onLeave('boss').subscribe(() => {
+        halleluja.stop();
+    })
+
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
     bootstrapExtra().then(() => {
         console.log('Scripting API Extra ready');
