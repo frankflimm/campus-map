@@ -177,8 +177,8 @@
                 }, 
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 1827, 1828, 1829, 1830, 1831, 1832, 0, 0, 187, 0, 0, 0, 0, 2960, 2961, 0, 0, 0, 0, 90, 0, 0, 0, 0, 0, 0, 2956, 2957, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2962, 2963, 0, 0, 0, 0, 102, 0, 0, 0, 0, 0, 0, 2958, 2959, 0, 0,
+                    0, 1827, 1828, 1829, 1830, 1831, 1832, 0, 0, 187, 0, 0, 0, 0, 2960, 2961, 0, 0, 0, 0, 2964, 2965, 0, 0, 0, 0, 0, 2956, 2957, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2962, 2963, 0, 0, 0, 0, 2966, 2967, 0, 0, 0, 0, 0, 2958, 2959, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -233,9 +233,9 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 77, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 89, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2339, 0, 101, 2412, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2339,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2339, 0, 0, 2412, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2339,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2366, 2367, 0, 2366, 2367, 0, 2310, 2311, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2391, 2392, 2417, 2391, 2392, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 2339, 0, 0, 0, 0, 0, 0, 2411, 0, 0, 2339, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -463,17 +463,6 @@
                  "y":544
                 }, 
                 {
-                 "height":59.765829259975,
-                 "id":20,
-                 "name":"wiki",
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":129.680572922587,
-                 "x":736.360122769126,
-                 "y":95.8508582471297
-                }, 
-                {
                  "height":38.3403432988519,
                  "id":24,
                  "name":"boss",
@@ -483,6 +472,147 @@
                  "width":59.765829259975,
                  "x":448.807548027737,
                  "y":89.0849153120382
+                }, 
+                {
+                 "height":46.6123,
+                 "id":33,
+                 "name":"cal",
+                 "properties":[
+                        {
+                         "name":"dynamic",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"{{{ calURL }}}"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE or touch here to open the calender"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":76,
+                 "x":625,
+                 "y":68.19385
+                }, 
+                {
+                 "height":71.6123,
+                 "id":26,
+                 "name":"wiki",
+                 "properties":[
+                        {
+                         "name":"dynamic",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"{{{ wikiURL }}}"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE or touch here to open the wiki"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":96,
+                 "x":752.925940661589,
+                 "y":84.7352277424122
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":63,
+         "name":"configuration",
+         "objects":[
+                {
+                 "height":0,
+                 "id":34,
+                 "name":"calURL",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":"https:\/\/kalender.digital\/e8dbca623e2c06e1de01"
+                        }, 
+                        {
+                         "name":"description",
+                         "type":"string",
+                         "value":"Test the website to embed with an iframe tester like https:\/\/iframetester.com\/"
+                        }, 
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"Website URL"
+                        }, 
+                        {
+                         "name":"persist",
+                         "type":"bool",
+                         "value":false
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":692,
+                 "y":55
+                }, 
+                {
+                 "height":0,
+                 "id":27,
+                 "name":"wikiURL",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":"https:\/\/de.wikipedia.org"
+                        }, 
+                        {
+                         "name":"description",
+                         "type":"string",
+                         "value":"Test the website to embed with an iframe tester like https:\/\/iframetester.com\/"
+                        }, 
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"Website URL"
+                        }, 
+                        {
+                         "name":"persist",
+                         "type":"bool",
+                         "value":false
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":799.819540752529,
+                 "y":47.8073206775038
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -564,8 +694,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":63,
- "nextobjectid":25,
+ "nextlayerid":64,
+ "nextobjectid":35,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -758,6 +888,19 @@
          "imagewidth":64,
          "margin":0,
          "name":"chef",
+         "spacing":0,
+         "tilecount":4,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":2,
+         "firstgid":2964,
+         "image":"tilesets\/katze.png",
+         "imageheight":64,
+         "imagewidth":64,
+         "margin":0,
+         "name":"katze",
          "spacing":0,
          "tilecount":4,
          "tileheight":32,

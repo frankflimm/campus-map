@@ -19,16 +19,16 @@ WA.onInit().then(() => {
     })
     WA.room.area.onLeave('clock').subscribe(closePopup)
 
-    // Wiki
-    WA.room.area.onEnter('wiki').subscribe(() => {
-        WA.chat.sendChatMessage('Hello world', 'Mr Robot');
-    })
-    WA.room.area.onLeave('wiki').subscribe()
+//     // Wiki
+//     WA.room.area.onEnter('wiki').subscribe(() => {
+//         WA.chat.sendChatMessage('Hello world', 'Mr Robot');
+//     })
+//     WA.room.area.onLeave('wiki').subscribe()
 
     // Boss
     var halleluja = WA.sound.loadSound("halleluja.mp3");
     var config = {
-        volume : 0.8,
+        volume : 1.0,
         loop : false,
         rate : 1,
         detune : 1,
