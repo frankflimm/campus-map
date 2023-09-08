@@ -684,8 +684,8 @@
                  "type":"area",
                  "visible":true,
                  "width":76,
-                 "x":185.333333333333,
-                 "y":759.693833333333
+                 "x":186,
+                 "y":771.027166666667
                 }, 
                 {
                  "height":51.279,
@@ -776,7 +776,7 @@
                 {
                  "height":0,
                  "id":12,
-                 "name":"gisUrl",
+                 "name":"gisURL",
                  "point":true,
                  "properties":[
                         {
@@ -803,13 +803,13 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":280.666666666667,
-                 "y":762.666666666667
+                 "x":260.666666666667,
+                 "y":754.666666666667
                 }, 
                 {
                  "height":0,
                  "id":10,
-                 "name":"whiteboardUrl",
+                 "name":"whiteboardURL",
                  "point":true,
                  "properties":[
                         {
